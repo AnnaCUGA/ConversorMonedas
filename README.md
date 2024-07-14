@@ -1,2 +1,3 @@
 # ConversorMonedas
-Conversor de monedas
+Conversor de monedas aun en proceso de mejora
+
